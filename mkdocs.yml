@@ -1,0 +1,13 @@
+site_name: Intro2Research
+site_url: 'http://vcc.tech/course/i2r/'
+repo_name: 'QhelDIV/Intro2research'
+repo_url: 'https://github.com/QhelDIV/Intro2research'
+site_description: 'Ongoing development of exploration robot navigation in unknown outdoor environment.'
+theme:
+    name: 'material'
+extra:
+    social:
+        - type: 'github'
+          link: 'https://github/qheldiv/'
+pages:
+    - Home: index.md
